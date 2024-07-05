@@ -1,15 +1,24 @@
-# SpectraGuard-Unity-Vuforia
+SpectraGuard-Unity-Vuforia
+In this project, we tested the functionality of the Vuforia Engine. Since the Unity project is too large to upload here, here are the key aspects:
 
-In this Project we Tested out the functionality of the Vuforia Engine. Since the Unity Project is to big to upload here are the key aspects. 
+Cbau:
+This is a scene in which we added the scanned Area Targets and placed AR content at points of interest like rooms and fire alarms. We implemented a simple navigation system, but it still has bugs.
 
-Cbau: 
-This is a Scene in which we added the Scaned AreaTargets and PlacedAR Content at POI of interest like Roooms and Firealarms. We implemented a simple Naviagation System but its still bugged.  
+Demo:
+We scanned the university again for the demo because the room was set up differently.
 
-Demo: 
-We scanned the University again for the Demo, because the Room was setup diffrently. 
+Instructions
+Follow this tutorial to set up the Vuforia Engine in your Unity project:
+https://developer.vuforia.com/library/getting-started/getting-started-vuforia-engine-unity
+
+Import the Cbau scene into your project and open it.
+
+Change the active build scene to Cbau.
+
+Feel free to edit or expand upon these instructions based on the specifics of your project.
 
 
-1.Follow this Tuturial to Setup the Vuforia Engine in your Unity Project:
-  https://developer.vuforia.com/library/getting-started/getting-started-vuforia-engine-unity.
-2.Import the Cbau Scene into your Project and open it.
-3.Change the Active Build Scene to CBau. 
+
+
+
+
